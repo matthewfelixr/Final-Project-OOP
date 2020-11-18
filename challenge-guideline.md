@@ -30,6 +30,6 @@
 ### D. Challenge Ideas (Optional)
 - Dapat menyimpan dan menampilkan leaderboard dengan 10 score terbaik.
 
-Game Referensi
+#### Game Referensi
 - https://helpfulsheep.com/snake/
 - https://playsnake.org/
