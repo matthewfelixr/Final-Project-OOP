@@ -1,10 +1,10 @@
 # Snake Game
-
 This repository is a final project (Java GUI) from Object-Oriented Programming Class, Teknik Informatika Universitas Padjadjaran. 
+
 
 [Challenge Guidelines](challenge-guideline.md)
 
-**Please create a description for this project here**
+Snake game is the common game for a videogame concept where the player manage a line to grows in length as long as possible with the line as a primary object called "Snake". the game first concepted in the 1976 and implemented over than hundreds of version.
 
 ## Credits
 | NPM           | Name                    |
